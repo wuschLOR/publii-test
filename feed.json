@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "szd test",
     "description": "",
-    "home_page_url": "https://publii-test",
-    "feed_url": "https://publii-test/feed.json",
+    "home_page_url": "https://wuschlor.github.io/publii-test",
+    "feed_url": "https://wuschlor.github.io/publii-test/feed.json",
     "user_comment": "",
     "author": {
         "name": "Michael Groh"
     },
     "items": [
         {
-            "id": "https://publii-test/ein-erster-blogeintrag.html",
-            "url": "https://publii-test/ein-erster-blogeintrag.html",
+            "id": "https://wuschlor.github.io/publii-test/ein-erster-blogeintrag.html",
+            "url": "https://wuschlor.github.io/publii-test/ein-erster-blogeintrag.html",
             "title": "ein erster Blogeintrag",
             "summary": "das ist ein blog",
             "content_html": "<p>das ist ein blog</p>",
