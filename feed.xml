@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>szd test</title>
+    <link href="https://publii-test/feed.xml" rel="self" />
+    <link href="https://publii-test" />
+    <updated>2024-05-07T17:00:06+02:00</updated>
+    <author>
+        <name>Michael Groh</name>
+    </author>
+    <id>https://publii-test</id>
+
+    <entry>
+        <title>ein erster Blogeintrag</title>
+        <author>
+            <name>Michael Groh</name>
+        </author>
+        <link href="https://publii-test/ein-erster-blogeintrag.html"/>
+        <id>https://publii-test/ein-erster-blogeintrag.html</id>
+
+        <updated>2024-05-07T17:00:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    das ist ein blog
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>das ist ein blog</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
