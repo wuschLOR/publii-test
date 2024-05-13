@@ -3,12 +3,32 @@
     <title>test</title>
     <link href="https://wuschlor.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://wuschlor.github.io/publii-test" />
-    <updated>2024-05-07T17:00:06+02:00</updated>
+    <updated>2024-05-13T11:07:34+02:00</updated>
     <author>
         <name>Michael Groh</name>
     </author>
     <id>https://wuschlor.github.io/publii-test</id>
 
+    <entry>
+        <title>bli bla blub </title>
+        <author>
+            <name>Michael Groh</name>
+        </author>
+        <link href="https://wuschlor.github.io/publii-test/bli-bla-blub.html"/>
+        <id>https://wuschlor.github.io/publii-test/bli-bla-blub.html</id>
+
+        <updated>2024-05-13T11:07:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test 124
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 124</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ein erster Blogeintrag</title>
         <author>

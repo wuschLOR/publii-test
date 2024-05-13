@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://wuschlor.github.io/publii-test/bli-bla-blub.html",
+            "url": "https://wuschlor.github.io/publii-test/bli-bla-blub.html",
+            "title": "bli bla blub ",
+            "summary": "test 124",
+            "content_html": "<p>test 124</p>",
+            "author": {
+                "name": "Michael Groh"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-13T11:07:34+02:00",
+            "date_modified": "2024-05-13T11:07:34+02:00"
+        },
+        {
             "id": "https://wuschlor.github.io/publii-test/ein-erster-blogeintrag.html",
             "url": "https://wuschlor.github.io/publii-test/ein-erster-blogeintrag.html",
             "title": "ein erster Blogeintrag",
