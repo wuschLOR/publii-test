@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "Erster test Publii",
     "description": "",
     "home_page_url": "https://wuschlor.github.io/publii-test",
     "feed_url": "https://wuschlor.github.io/publii-test/feed.json",
@@ -19,9 +19,11 @@
                 "name": "Michael Groh"
             },
             "tags": [
+                   "tag2",
+                   "tag1"
             ],
             "date_published": "2024-05-13T11:07:34+02:00",
-            "date_modified": "2024-05-13T11:07:34+02:00"
+            "date_modified": "2024-05-13T11:10:04+02:00"
         },
         {
             "id": "https://wuschlor.github.io/publii-test/ein-erster-blogeintrag.html",
@@ -33,9 +35,10 @@
                 "name": "Michael Groh"
             },
             "tags": [
+                   "tag1"
             ],
             "date_published": "2024-05-07T17:00:06+02:00",
-            "date_modified": "2024-05-07T17:00:06+02:00"
+            "date_modified": "2024-05-13T11:10:27+02:00"
         }
     ]
 }
